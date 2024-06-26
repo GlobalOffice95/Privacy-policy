@@ -1,3 +1,4 @@
+# Privacy-policy
 ## Politica de Confidențialitate
 
 Această politica de confidențialitate descrie cum aplicația Electric Wizzard, disponibilă pe Google Play Store, colectează, folosește și protejează informațiile utilizatorilor săi. Prin utilizarea aplicației noastre, sunteți de acord cu termenii acestei politici.
@@ -55,5 +56,3 @@ If you have questions or concerns about this privacy policy or our privacy pract
 
 8. **Liability Disclaimer**
 Electric Wizzard disclaims responsibility for any errors, omissions, or consequences arising from the use of the application. Users are responsible for the proper use of the information and functionalities offered by the app. Any issues related to the operation or use of the app can be reported to global.office95@gmail.com.
-
-
